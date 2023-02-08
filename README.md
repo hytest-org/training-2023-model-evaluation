@@ -1,15 +1,19 @@
 # Model Evaluation (2023)
 
-## Training Overview 
-Briefly summarize technical side and theory side of the course
+## Training Overview
+This course will introduce students to [Pangeo](https://pangeo.io/), a popular Python platform for Big Data geoscience,
+then demonstrate using [Pangeo](https://pangeo.io/) to evaluate the output from a Big geoscientific model.
 
 ## Learning Outcomes
-During the training, students will use `Pangeo,` a popular Python enviornment for distributed computing and receive training on some of the fundamental technical components of the Pangeo architecture, including S3, `Dask`, `intake`, `xarray`, and `hvplot`.
-Each technical components will be demonstrated and then applied to evaluate the National Water Model.
-In so doing, they will learn about theory of model evaluation, best practices, and how to compute and interpret standard metrics used for benchmarking model performance.
+On the technical side,
+students will become familar with fundamental components of the Pangeo architecture, including S3, `Dask`, `intake`, `xarray`, and `hvplot`.
+On the theory side,
+students will learn about theory of model evaluation, best practices, and how to compute and interpret standard metrics used for benchmarking model performance.
+By the end, the student should be able to take the output of a Big geoscientific model, choose a meaningful suite of performance metrics, compute them, and visualize the result.
 
 ## Lesson plan
 ### Day 1
+- Icebreaker - 20 minutes
 - [Lesson 0: Training Overview](https://github.com/hytest-org/training-2023-model-evaluation/blob/main/lessons/00-overview.md) - 10 minutes
 - [Lesson 1: Pangeo](https://github.com/hytest-org/training-2023-model-evaluation/blob/main/lessons/01-pangeo.md) - 10 minutes
 - [Lab 1: Data exploration](https://github.com/hytest-org/training-2023-model-evaluation/blob/main/labs/01-data-exploration.ipynb) - 50 minutes
