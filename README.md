@@ -16,7 +16,7 @@ By the end, the student should be able to take the output of a geoscientific mod
 ### Day 1
 - Icebreaker - 20 minutes
 - Lesson 0: Training Overview - 10 minutes
-- Lesson 1: Panteo - 10 minutes
+- Lesson 1: Pangeo - 10 minutes
 - Lab 1: Data exploration  - 40 minutes
 - Break - 20 minutes
 - Lesson 2: Standard benchmarks (theory) - 30 minutes
