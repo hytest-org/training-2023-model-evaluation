@@ -25,8 +25,8 @@ By the end, the student should be able to take the output of a geoscientific mod
 - Lesson 3: Selecting your objective - 30 minutes
 - Lab 3: Selecting your objective - 30 minutes
 - Break - 20 minutes
-- Lesson 4: Dscore benchmark (theory) - 30 minutes
-- Lab 4:  Dscore benchmark (application) - 20 minutes
+- Lesson 4: d-score benchmark (theory) - 30 minutes
+- Lab 4:  d-score benchmark (application) - 20 minutes
 - 20 minute break
 - Lesson 5: Python plotting overview - 20 minutes
 - Lab 5:  Hvplot demonstration - 30 minutes
