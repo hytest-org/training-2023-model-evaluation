@@ -19,16 +19,17 @@ By the end, the student should be able to take the output of a geoscientific mod
 - Lesson 1: Pangeo - 10 minutes
 - Lab 1: Data exploration  - 40 minutes
 - Break - 20 minutes
-- Lesson 2: Standard benchmarks (theory) - 30 minutes
-- Lab 2: Standard benchmarks (application) - 20 minutes
+- Lesson 2: Python plotting overview - 20 minutes
+- Lab 2:  Hvplot demonstration - 30 minutes
+
 ### Day 2
-- Lesson 3: Selecting your objective - 30 minutes
-- Lab 3: Selecting your objective - 30 minutes
-- Break - 20 minutes
-- Lesson 4: d-score benchmark (theory) - 30 minutes
-- Lab 4:  d-score benchmark (application) - 20 minutes
-- 20 minute break
-- Lesson 5: Python plotting overview - 20 minutes
-- Lab 5:  Hvplot demonstration - 30 minutes
+- Lesson 3: Standard benchmarks (theory) - 30 minutes
+- Lab 3: Standard benchmarks (application) - 20 minutes
+- Break - 10 minutes
+- Lesson 4: Selecting your objective - 30 minutes
+- Lab 4: Selecting your objective - 30 minutes
+- Break - 10 minutes
+- Lesson 5: d-score benchmark (theory) - 30 minutes
+- Lab 5:  d-score benchmark (application) - 20 minutes
 
 Duration: 5:30 hrs include breaks
