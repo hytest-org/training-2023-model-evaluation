@@ -62,3 +62,6 @@ Prior knowledge of Jupyter Notebooks and Python will be beneficial to participan
 -	MSTeam (internal to network): [GS-CHS-UserTraining](https://teams.microsoft.com/l/team/19%3a5855c04511584c26b42ba426cc0a7890%40thread.skype/conversations?groupId=8f59b7f0-3b27-459c-a145-4da10ee16b20&tenantId=0693b5ba-4b18-4d7b-9341-f32f400a5494)
 -	Sharepoint (internal to network): [HyTEST Project](https://doimspp.sharepoint.com/sites/gs-wma-hytest/)
 -	Sharepoint (internal to network): [HyTEST Evaluation Task](https://doimspp.sharepoint.com/sites/gs-wma-hytest/SitePages/EvalutionTaskTeam.aspx)
+
+## Contact
+Please feel free to reach out to Sydney Foks (sfoks at usgs.gov) with any questions.
