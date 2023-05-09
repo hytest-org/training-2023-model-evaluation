@@ -18,23 +18,26 @@ May 10th and May 11th of 2023, 10am to 2pm MT
 
 ## Lesson plan
 ### Day 1
-- Icebreaker - 20 minutes
-- Lesson 0: Training Overview - 10 minutes
-- Lesson 1: Pangeo - 10 minutes
-- Lab 1: Data exploration  - 40 minutes
-- Break - 20 minutes
-- Lesson 2: Python plotting overview - 20 minutes
-- Lab 2:  Hvplot demonstration - 30 minutes
+- Welcome/Icebreaker - 20 minutes
+- Lesson 0: HyTEST, Pangeo Concepts, Tools - 20 minutes
+- Lesson 1: Training Setup - 20 minutes
+- Break - 15 minutes
+- Lab 1: Data exploration  - 30 minutes
+- Break - 10 minutes
+- Lab 2:  Hvplot demonstration - 35 minutes
+- Q & A: Day 1 - 20 minutes
 
 ### Day 2
 - Lesson 3: Standard benchmarks (theory) - 30 minutes
-- Lab 3: Standard benchmarks (application) - 20 minutes
+- Lab 3: Standard benchmarks (application) - 30 minutes
 - Break - 10 minutes
 - Lesson 4: Selecting your objective - 30 minutes
+- Break - 30 minutes
 - Lab 4: Selecting your objective - 30 minutes
-- Break - 10 minutes
 - Lesson 5: d-score benchmark (theory) - 30 minutes
+- Break - 10 minutes
 - Lab 5:  d-score benchmark (application) - 20 minutes
+- Wrap-up and Q&A - 20 minutes
 
 Duration: 5:30 hrs include breaks
 
