@@ -39,7 +39,6 @@ May 10th and May 11th of 2023, 10am to 2pm MT
 - Lab 5:  d-score benchmark (application) - 20 minutes
 - Wrap-up and Q&A - 20 minutes
 
-Duration: 5:30 hrs include breaks
 
 ## Presenters
 Tim Hodson (USGS), Erin Towler (NCAR), Gene Trantham (USGS), & Sydney Foks (USGS)
